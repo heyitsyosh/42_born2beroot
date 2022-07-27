@@ -1,3 +1,3 @@
 # born2beroot
 
-https://youtu.be/1mnbf0v6Ook
+[Debian Installation + Partition Setup](https://youtu.be/1mnbf0v6Ook)
