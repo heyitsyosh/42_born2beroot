@@ -4,7 +4,4 @@
 
 ✅125/100
 
-This project aims to introduce you to the wonderful world of virtualization.
-
-----
-[Debian Installation + Partition Setup](https://youtu.be/1mnbf0v6Ook)
+The objective of this project is for you to create a simple shell.
